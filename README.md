@@ -1,4 +1,6 @@
 Power-BI
+
+
 1.Power Bi with SQL
 2.Desktop Services
 3.Report Server
